@@ -18,12 +18,3 @@ Console.WriteLine(a % 10);
 
 Console.WriteLine("END");   
 
-
-
-//if (a < 100)
-
- // else
-   // {
-   //     Console.WriteLine("третьей цифры нет");
-    //}
- 
